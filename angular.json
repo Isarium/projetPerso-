@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "projetPerso"
+    }
+  },
+  "defaultProject": "projetPerso",
+  "cli": {
+    "analytics": "864a8511-ec9b-40de-9667-6336f25b906d"
+  }
 }

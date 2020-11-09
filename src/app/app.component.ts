@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Welcome to Ludovic website';
+  title = 'Raclette party';
+
+  isThisIngredientVital:boolean = true;
+
+  displayGuestList:boolean = false;
+
+  songList: string[] = ["Alejandro", "ne me quitte pas", "le temps est bon"];
 }
